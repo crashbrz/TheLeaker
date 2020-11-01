@@ -7,7 +7,7 @@
 # TheLeaker #
 The Leaker is a portable multi-format command line file crafter. TheLeaker allows us to create different files with embed payloads. The main goal of this tool is to test if the DLP solution in place is configured correctly.  
 
-After setting up it properly, TheLeaker supports XSLX, PDF, Raw(txt), ZIP, TAR, and GZ file formats.
+After setting up it properly, TheLeaker supports XLSX, PDF, Raw(txt), ZIP, TAR, and GZ file formats.
 Also, TheLeaker can encode the payloads. Right now, hex, bin, and base64 encodings are supported. 
 
 ### Installation ###
