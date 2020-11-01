@@ -53,3 +53,5 @@ Usage of theleaker:
         Generates a ZIP file containing a random name zipped file and the provided test string.
 
   ```
+### To Do ###
+Add more file formats like Doc(x) and others.
